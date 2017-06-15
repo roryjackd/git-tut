@@ -7,6 +7,4 @@ sixth data
 seventh data
 <<<<<<< HEAD
 9
-=======
-8
->>>>>>> 124f124933685136625f99abdec255940ca932e7
+10
